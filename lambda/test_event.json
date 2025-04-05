@@ -1,0 +1,12 @@
+{
+    "Records": [
+        {
+            "eventSource": "aws:s3",
+            "s3": {
+                "bucket": { "name": "workout-data-bucket" },
+                "object": { "key": "test.csv" }
+            }
+        }
+    ]
+}
+

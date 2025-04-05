@@ -1,0 +1,5 @@
+# requirements/prod.txt
+numpy
+pymysql
+pandas
+boto3
